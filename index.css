@@ -23,4 +23,18 @@
 
 #add-new-todo-button:active{
   box-shadow: 1px 1px 1px #90A4AE;
+  padding: 5px;
+  border: 2px solid #2C3E50;
+  margin: 5px;
+}
+
+h2{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 32px;
+  margin: 20px 0px;
+}
+
+.completed-todo{
+  text-decoration: line-through;
 }
